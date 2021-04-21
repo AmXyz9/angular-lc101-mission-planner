@@ -8,6 +8,15 @@ button {
     cursor: pointer;
 }
 
+.activeStyle {
+    background-color: chartreuse;
+}
+
+.nearMaxMass {
+    font-style: italic;
+    color: red;
+}
+
 h3 {
     text-align: center;
 }
